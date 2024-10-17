@@ -33,7 +33,7 @@ export default {
     async fetchVersionHistory() {
       try {
         const response = await fetch(
-          'https://raw.githubusercontent.com/leetzuhui/DuXin_Version_History/main/version_history.json',
+          'https://raw.githubusercontent.com/leetzuhui/HyperSensor_Software/refs/heads/master/version_history.json',
           { cache: 'no-store' }
         );
         const data = await response.json();
