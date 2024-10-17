@@ -1,6 +1,6 @@
 <template>
   <div class="version-history">
-    <h1>Software Version History</h1>
+    <h1>HyperSensor Software Version History</h1>
     <div v-if="loading" class="loading" v-html="loadingHTMLContent"></div>
     <div v-else>
       <LatestVersion :latestVersion="latestVersion" />
