@@ -1,4 +1,5 @@
 <template>
+  <Header />
   <div class="version-history">
     <h1>HyperSensor Software Version History</h1>
     <div v-if="loading" class="loading" v-html="loadingHTMLContent"></div>
@@ -7,16 +8,21 @@
       <VersionItem :versions="versions" />
     </div>
   </div>
+  <Footer />
 </template>
 
 <script>
+import Header from './components/Header.vue';
 import VersionItem from './components/PreviousVersion.vue';
 import LatestVersion from './components/LatestVersion.vue';
+import Footer from './components/Footer.vue';
 
 export default {
   components: {
+    Header,
     VersionItem,
     LatestVersion,
+    Footer
   },
   data() {
     return {
@@ -55,12 +61,13 @@ export default {
 
 <style scoped>
 .version-history {
-  max-width: 75%;
+  max-width: 80%;
   margin: 0 auto;
-  padding-top: 50px;
+  padding-top: 100px;
 
   h1 {
     text-align: center;
+    margin: 100px 0;
   }
 
   .loading {

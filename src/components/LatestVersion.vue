@@ -1,4 +1,5 @@
 <template>
+  <!-- LatestVersion -->
   <div class="latest-version-wrapper">
     <div class="section-title">Latest Version</div>
     <div class="latest-version-item" @mouseenter="hoverIn($event)" @mouseleave="hoverOut($event)">
@@ -72,6 +73,7 @@ export default {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
     text-align: left;
     cursor: pointer;
+    overflow: hidden;
   }
 }
 </style>
