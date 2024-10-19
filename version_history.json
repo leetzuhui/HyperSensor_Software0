@@ -1,0 +1,51 @@
+{
+  "versions": [{
+      "version": "October 17, 2024 Version (2.1.1)",
+      "datetime": "Thursday, October 17, 2024 3:27 PM",
+      "descriptions": "Updated software name and external link.",
+      "id": "4dbaf60a6d54860f93c60e2e16463d721f532b0c"
+    },
+    {
+      "version": "October 11, 2024 Version (2.1.0)",
+      "datetime": "Friday, October 11, 2024 5:16 PM",
+      "descriptions": "Added 'MIPI Settings + MIPI Control' Section.",
+      "id": "ac24db95f270bd86bdc28a386f739999f1f19129"
+    },
+    {
+      "version": "September 30, 2024 Version (2.0.6)",
+      "datetime": "Monday, September 30, 2024 1:12 PM",
+      "descriptions": "Added SensorIni.m_tab.type judgement (convertMIPI_RAW10_to_Mat32FC1, convertMIPI_RAW12_to_Mat32FC1).",
+      "id": "c50cdf4e79b0ba56341440afd6eaec2f0754a239"
+    },
+    {
+      "version": "September 24, 2024 Version (2.0.5)",
+      "datetime": "Tuesday, September 24, 2024 3:33 PM",
+      "descriptions": "Updated WriteSensorReg m_byI2cMode in AutoTest and EzPass.",
+      "id": "d0139aca1ae0700f10a09c58bda67bfeaa1b277a"
+    },
+    {
+      "version": "September 12, 2024 Version (2.0.4)",
+      "datetime": "Thursday, September 12, 2024 11:49 AM",
+      "descriptions": "Added version history.",
+      "id": "1f15017c7c33e4ee9adf5c48277ed95b0e6cc95e"
+    },
+    {
+      "version": "September 11, 2024 Version (2.0.3)",
+      "datetime": "Wednesday, September 11, 2024 3:31 PM",
+      "descriptions": "Removed 'CRC and Size Settings' to solve the problem that display cannot be on when 10bit / 12bit and 4 lane.",
+      "id": "cde6a7339ad15c4a4825c76e91dd696370e5d760"
+    },
+    {
+      "version": "September 11, 2024 Version (2.0.2)",
+      "datetime": "Wednesday, September 11, 2024 2:37 PM",
+      "descriptions": "Fixed I2C error when I2C Mode set to 3.",
+      "id": "fdd216b034276e3521f59259646af749ce5abd09"
+    },
+    {
+      "version": "September 4, 2024 Version (2.0.1)",
+      "datetime": "Wednesday, September 4, 2024 4:36 PM",
+      "descriptions": "Added SendCommands_INI, now SendCommands with 2 versions: SendCommands_INI (Modern) and SendCommands_TXT (Legacy).",
+      "id": "70a61ebe2ec599640770c19dee0517e0ae381710"
+    }
+  ]
+}
