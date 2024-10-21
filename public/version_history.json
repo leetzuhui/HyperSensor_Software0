@@ -1,5 +1,11 @@
 {
   "versions": [{
+      "version": "October 21, 2024 Version (2.1.2)",
+      "datetime": "Monday, October 21, 2024 2:41 PM",
+      "descriptions": "Updated Capture function, now Capture is Only Valid in Multiple Commands and .txt Mode.",
+      "id": "e0c7b136702c2fac0ef0cb078d05f4bfe928c5da"
+    },
+    {
       "version": "October 17, 2024 Version (2.1.1)",
       "datetime": "Thursday, October 17, 2024 3:27 PM",
       "descriptions": "Updated software name and external link.",
