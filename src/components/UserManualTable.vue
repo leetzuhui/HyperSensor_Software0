@@ -39,11 +39,11 @@ export default {
           description: 'Quickly set up and start using HyperSensor Software with step-by-step instructions.',
           links: {
             first: {
-              herf: 'https://leetzuhui.github.io/HyperSensor_Software/downloads/Quick_Start_Guide_CN_v2.1.0.pdf',
+              herf: './downloads/Quick_Start_Guide_CN_v2.1.0.pdf',
               text: 'Quick_Start_Guide_CN_v2.1.0.pdf'
             },
             last: {
-              herf: 'https://leetzuhui.github.io/HyperSensor_Software/downloads/Quick_Start_Guide_EN_v2.1.0.pdf',
+              herf: './downloads/Quick_Start_Guide_EN_v2.1.0.pdf',
               text: 'Quick_Start_Guide_EN_v2.1.0.pdf'
             }
           },

@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 import SoftwareVersionPage from '../views/SoftwareVersionPage.vue';
 import UserManualPage from '../views/UserManualPage.vue';
 import ContactUsPage from '../views/ContactUsPage.vue';
@@ -7,7 +7,7 @@ import NotFoundPage from '../views/NotFoundPage.vue';
 const routes = [
   {
     path: '/HyperSensor_Software',
-    redirect: 'version-history'
+    redirect: '/version-history'
   },
   {
     path: '/version-history',
@@ -24,14 +24,14 @@ const routes = [
     component: ContactUsPage,
   },
   {
-    path: '/version-history/:pathMatch(.*)*',
+    path: '/version-history/*',
     name: '404NotFound',
     component: NotFoundPage,
   }
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 });
 

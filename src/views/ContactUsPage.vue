@@ -18,7 +18,7 @@
           <p>Access our software comprehensive guide.</p>
         </div>
         <div class="info-link">
-          <router-link to="/version-history/user_manual">User Manual</router-link>
+          <router-link to="/version-history/user-manual">User Manual</router-link>
         </div>
       </div>
       <div class="info-item">
