@@ -7,20 +7,24 @@ import NotFoundPage from '../views/NotFoundPage.vue';
 const routes = [
   {
     path: '/HyperSensor_Software',
-    name: 'Home',
+    redirect: 'version-history'
+  },
+  {
+    path: '/version-history',
+    name: 'SoftwareVersion',
     component: SoftwareVersionPage, // 默认首页
   },
   {
-    path: '/User_Manual',
+    path: '/version-history/user-manual',
     name: 'UserManual',
     component: UserManualPage,
   }, {
-    path: '/Contact_Us',
+    path: '/version-history/contact-us',
     name: 'ContactUs',
     component: ContactUsPage,
   },
   {
-    path: '/:pathMatch(.*)*',
+    path: '/version-history/:pathMatch(.*)*',
     name: '404NotFound',
     component: NotFoundPage,
   }
