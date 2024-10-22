@@ -7,8 +7,8 @@
         <p>All rights reserved.</p>
       </div>
       <div class="legal-links">
-        <a href="#/privacy-policy">Privacy Policy</a>
-        <a href="#/terms-of-service">Terms of Service</a>
+        <a href="/privacy-policy">Privacy Policy</a>
+        <a href="/terms-of-service">Terms of Service</a>
       </div>
     </div>
   </footer>

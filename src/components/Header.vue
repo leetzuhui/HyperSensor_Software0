@@ -1,13 +1,13 @@
 <template>
   <!-- Header -->
   <header ref="header">
-    <div class="logo">
+    <router-link to="/HyperSensor_Software" class="logo">
       <img src="../assets/logo.png" />
-    </div>
+    </router-link>
     <nav class="nav-links">
-      <a href="#/software-history">Software Version History</a>
-      <a href="#/user-manual">User Manual</a>
-      <a href="#/contact">Contact</a>
+      <router-link to="/HyperSensor_Software">Software Version History</router-link>
+      <router-link to="/User_Manual">User Manual</router-link>
+      <router-link to="/Contact_Us">Contact Us</router-link>
     </nav>
   </header>
 </template>

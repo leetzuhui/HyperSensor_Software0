@@ -123,6 +123,7 @@ export default {
   }
 
   .detail {
+    text-align: left;
     margin-top: 10px;
     overflow: hidden;
     height: 0;
