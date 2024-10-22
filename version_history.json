@@ -1,5 +1,11 @@
 {
   "versions": [{
+      "version": "October 22, 2024 Version (2.1.3)",
+      "datetime": "Tuesday, October 22, 2024 3:22 PM",
+      "descriptions": "Extend the length of ini file path text holder, redesign the layout.",
+      "id": "fad77a15a51050aa1e03adac5c0367a2e0244c0e"
+    },
+    {
       "version": "October 21, 2024 Version (2.1.2)",
       "datetime": "Monday, October 21, 2024 2:41 PM",
       "descriptions": "Updated Capture function, now Capture is Only Valid in Multiple Commands and .txt Mode.",
