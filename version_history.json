@@ -1,5 +1,24 @@
 {
-  "versions": [{
+  "versions": [
+    {
+      "version": "November 7, 2024 Version (2.1.6)",
+      "datetime": "Thursday, November 7, 2024 11:55 AM",
+      "descriptions": "Fix bugs and improvements.",
+      "id": "f0a6db59073c62d1b9a8fb005311c6f915a6b2bd"
+    },
+    {
+      "version": "November 1, 2024 Version (2.1.5)",
+      "datetime": "Friday, November 1, 2024 3:42 PM",
+      "descriptions": "Add number fill with 0.",
+      "id": "631fafdbf731da32d01c659c644995671c6b78d7"
+    },
+    {
+      "version": "November 1, 2024 Version (2.1.4)",
+      "datetime": "Friday, November 1, 2024 10:45 AM",
+      "descriptions": "Disable background running 'Cropped Display Control' logic when IDC_ShowCroppedCheck unchecked.",
+      "id": "c8aa0f96d0245101fe615df360436f1af8416327"
+    },
+    {
       "version": "October 22, 2024 Version (2.1.3)",
       "datetime": "Tuesday, October 22, 2024 3:22 PM",
       "descriptions": "Extend the length of ini file path text holder, redesign the layout.",
