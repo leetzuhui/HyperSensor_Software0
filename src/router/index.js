@@ -12,7 +12,7 @@ const routes = [
   {
     path: '/version-history',
     name: 'SoftwareVersion',
-    component: SoftwareVersionPage, // 默认首页
+    component: SoftwareVersionPage, // default home page
   },
   {
     path: '/version-history/user-manual',
