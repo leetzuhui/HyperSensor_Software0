@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "version": "November 8, 2024 Version (2.1.7)",
+      "datetime": "Friday, November 8, 2024 4:04 PM",
+      "descriptions": "Add support for D_MIPI_RAW16.",
+      "id": "f09ca98a39a5d4b054ef27fb79fb8c45aa032405"
+    },
+    {
       "version": "November 7, 2024 Version (2.1.6)",
       "datetime": "Thursday, November 7, 2024 11:55 AM",
       "descriptions": "Fix bugs and improvements.",
