@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "version": "November 14, 2024 Version (2.1.8)",
+      "datetime": "Thursday, November 14, 2024 3:12 PM",
+      "descriptions": "Change entering full screen keyboard shortcut to Ctrl+F from F, keep existing full screen keyboard shortcut Esc unchanged. Fix bug about Capture, now clear command container before every Capture executes.",
+      "id": "64085bbcbc9222613551cc61b02cf45b3f564139"
+    },
+    {
       "version": "November 8, 2024 Version (2.1.7)",
       "datetime": "Friday, November 8, 2024 4:04 PM",
       "descriptions": "Add support for D_MIPI_RAW16.",
