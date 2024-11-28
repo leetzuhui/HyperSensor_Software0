@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "version": "November 28, 2024 Version (2.1.10)",
+      "datetime": "Thursday, November 28, 2024 3:44 PM",
+      "descriptions": "Change cropped display [showHist] -> [ShowHistogram]: from line to histogram.",
+      "id": "ca1eee08605be421dec0e79a3734cf55ec884a17"
+    },
+    {
       "version": "November 14, 2024 Version (2.1.9)",
       "datetime": "Thursday, November 14, 2024 4:19 PM",
       "descriptions": "Add Capture Guard: don't stop snapshotting immediately when commands send finished.",
