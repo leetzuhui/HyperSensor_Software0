@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "December 10, 2024 Version (2.2.3)",
+      "datetime": "Tuesday, December 10, 2024 1:48 PM",
+      "descriptions": "Update ShowHistogram -> ShowHistLine.",
+      "id": "8b21a55d58c0059bdba05ce6d5cde83086eb948b"
+    },
+    {
+      "version": "December 2, 2024 Version (2.2.2)",
+      "datetime": "Monday, December 2, 2024 3:23 PM",
+      "descriptions": "Update dt_u.dtdev_20241129.",
+      "id": "7a17b485aa8fddf8c6777bce924ad2eeb93050d7"
+    },
+    {
       "version": "November 29, 2024 Version (2.2.1)",
       "datetime": "Friday, November 29, 2024 5:51 PM",
       "descriptions": "Add D_MIPI_RAW24 support.",
