@@ -1,13 +1,13 @@
 {
   "versions": [
     {
-      "version": "December 11, 2024 Version (2.2.3.x)",
+      "version": "December 11, 2024 Version (2.2.4.x)",
       "datetime": "Wednesday, December 11, 2024 6:11 PM",
       "descriptions": "Fix bugs: D_MIPI_RAW24 -> FORMAT_RAW24.",
       "id": "25e62ad4855f1a993b2a0eabb618bfba2f76517e"
     },
     {
-      "version": "December 11, 2024 Version (2.2.3)",
+      "version": "December 11, 2024 Version (2.2.4)",
       "datetime": "Wednesday, December 11, 2024 1:56 PM",
       "descriptions": "Add ImageTransform D_MIPI_RAW24 -> D_RAW24 for 24 bit.",
       "id": "ba3615ab7d94ff9f72aed640b13a383e6331d119"
