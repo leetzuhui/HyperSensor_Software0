@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "version": "December 11, 2024 Version (2.2.3)",
+      "datetime": "Wednesday, December 11, 2024 1:56 PM",
+      "descriptions": "Add ImageTransform D_MIPI_RAW24 -> D_RAW24 for 24 bit.",
+      "id": "ba3615ab7d94ff9f72aed640b13a383e6331d119"
+    },
+    {
       "version": "December 10, 2024 Version (2.2.3)",
       "datetime": "Tuesday, December 10, 2024 1:48 PM",
       "descriptions": "Update ShowHistogram -> ShowHistLine.",
