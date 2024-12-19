@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "version": "December 19, 2024 Version (2.2.5)",
+      "datetime": "Thursday, December 19, 2024 4:09 PM",
+      "descriptions": "Fix bugs: minor changes.",
+      "id": "b2d115da41be0ee606617fadc09c6cb9fb733724"
+    },
+    {
       "version": "December 11, 2024 Version (2.2.4.x)",
       "datetime": "Wednesday, December 11, 2024 6:11 PM",
       "descriptions": "Fix bugs: D_MIPI_RAW24 -> FORMAT_RAW24.",
