@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "version": "December 25, 2024 Version (2.2.6)",
+      "datetime": "Wednesday, December 25, 2024 11:07 AM",
+      "descriptions": "add EzPass ExposeMs False Tolerance (Absolute value).",
+      "id": "4b8416a507f8dc183dae5d58cee2206fc5b740d0"
+    },
+    {
       "version": "December 19, 2024 Version (2.2.5)",
       "datetime": "Thursday, December 19, 2024 4:09 PM",
       "descriptions": "Fix bugs: minor changes.",
