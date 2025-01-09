@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "January 9, 2025 Version (3.0.1)",
+      "datetime": "Thursday, January 9, 2025 11:16 AM",
+      "descriptions": "Fix SendCommands without file included: add m_SendCommands_Status_class default type SendCommands_Status::Txt_Legacy. Update status box fresh rate.",
+      "id": "ea53108a9ad9c3e4fe74f9ee42f1aa091e839208"
+    },
+    {
+      "version": "December 25, 2024 Version (2.2.6)",
+      "datetime": "Wednesday, December 25, 2024 11:07 AM",
+      "descriptions": "Add EzPass ExposeMs False Tolerance (Absolute value).",
+      "id": "4b8416a507f8dc183dae5d58cee2206fc5b740d0"
+    },
+    {
       "version": "December 19, 2024 Version (2.2.5)",
       "datetime": "Thursday, December 19, 2024 4:09 PM",
       "descriptions": "Fix bugs: minor changes.",
