@@ -9,7 +9,7 @@
           <p>For software support and inquiries.</p>
         </div>
         <div class="info-link">
-          <a href="mailto:tzuhui.lee@icloud.com">tzuhui.lee@icloud.com</a>
+          <a href="mailto:">[EMPTY]</a>
         </div>
       </div>
       <div class="info-item">
@@ -23,20 +23,29 @@
       </div>
       <div class="info-item">
         <div class="info-text">
-          <h3>Address (Hefei)</h3>
+          <h3>Address (Beijing)</h3>
           <p>Visit us for in-person assistance.</p>
         </div>
         <div class="info-link">
-          <p>CG PARK, Qingtan Rd, Shushan District, Hefei, Anhui</p>
+          <p>3F, Satellite Science and Technology Park, No. 63 Zhichun Rd, Haidian District, Beijing</p>
         </div>
       </div>
-      <div class="info-item last">
+      <div class="info-item">
         <div class="info-text">
           <h3>Address (Tianjin)</h3>
           <p>Visit us for in-person assistance.</p>
         </div>
         <div class="info-link">
-          <p>Haitai W Rd, Xiqing District, Tianjin</p>
+          <p>3F, North 2 Building, Software Park, Haitai West Rd, Binhai High-tech Zone, Xiqing District, Tianjin</p>
+        </div>
+      </div>
+      <div class="info-item last">
+        <div class="info-text">
+          <h3>Address (Hefei)</h3>
+          <p>Visit us for in-person assistance.</p>
+        </div>
+        <div class="info-link">
+          <p>17F, Bulding No. 10, China-Germany Park, Qingtan Rd, Shushan District, Hefei, Anhui</p>
         </div>
       </div>
     </div>
