@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "version": "January 13, 2025 Version (3.0.2)",
+      "datetime": "Monday, January 13, 2025 11:23 AM",
+      "descriptions": "Add processing that press Enter when not focusing on IDC_EDIT_MSG_I2C.",
+      "id": "0b2c80c7f3160d0d693cb248b74e1b8ea514291f"
+    },
+    {
       "version": "January 9, 2025 Version (3.0.1)",
       "datetime": "Thursday, January 9, 2025 11:16 AM",
       "descriptions": "Fix SendCommands without file included: add m_SendCommands_Status_class default type SendCommands_Status::Txt_Legacy. Update status box fresh rate.",
